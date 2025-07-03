@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|c:\\g\u00FCven emlak projes\u0130\\uygulama\\guvenemlak\\guvenemlak\\models\\guvenemlakcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\models\\guvenemlakcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|c:\\g\u00FCven emlak projes\u0130\\uygulama\\guvenemlak\\guvenemlak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\guvenemlak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|c:\\g\u00FCven emlak projes\u0130\\uygulama\\guvenemlak\\guvenemlak\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|c:\\g\u00FCven emlak projes\u0130\\uygulama\\guvenemlak\\guvenemlak\\housedetailssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\housedetailssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|c:\\g\u00FCven emlak projes\u0130\\uygulama\\guvenemlak\\guvenemlak\\housedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\housedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|c:\\g\u00FCven emlak projes\u0130\\uygulama\\guvenemlak\\guvenemlak\\reportdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\reportdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\guvenemlak\\reportdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\reportdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\guvenemlak\\housedetailssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\housedetailssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\guvenemlak\\housedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\housedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\guvenemlak\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|c:\\g\u00FCven emlak projes\u0130\\uygulama\\guvenemlak\\guvenemlak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|c:\\g\u00FCven emlak projes\u0130\\uygulama\\guvenemlak\\guvenemlak\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B59488-8002-4AA6-969C-BDE8F51A3D49}|GuvenEmlak\\GuvenEmlak.csproj|solutionrelative:guvenemlak\\editemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\MainForm.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\MainForm.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\MainForm.cs",
+              "RelativeToolTip": "GuvenEmlak\\MainForm.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAowIQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:55:41.306Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\MainForm.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\MainForm.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\MainForm.cs [Design]",
+              "RelativeToolTip": "GuvenEmlak\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:28:07.716Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuvenEmlakContext.cs",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\Models\\GuvenEmlakContext.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\Models\\GuvenEmlakContext.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\Models\\GuvenEmlakContext.cs",
+              "RelativeToolTip": "GuvenEmlak\\Models\\GuvenEmlakContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:42:39.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\Models\\Report.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\Models\\Report.cs",
+              "RelativeToolTip": "GuvenEmlak\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:37:55.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportDetailsForm.cs",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\ReportDetailsForm.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\ReportDetailsForm.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\ReportDetailsForm.cs",
+              "RelativeToolTip": "GuvenEmlak\\ReportDetailsForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAArwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:20:09.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HouseDetails.cs",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\HouseDetails.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\HouseDetails.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\HouseDetails.cs",
+              "RelativeToolTip": "GuvenEmlak\\HouseDetails.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAvwIEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:13:09.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HouseDetailsSettings.cs",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\HouseDetailsSettings.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\HouseDetailsSettings.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\HouseDetailsSettings.cs",
+              "RelativeToolTip": "GuvenEmlak\\HouseDetailsSettings.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAlwHMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:55:19.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\ReportDetailsForm.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\ReportDetailsForm.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\ReportDetailsForm.cs [Design]",
+              "RelativeToolTip": "GuvenEmlak\\ReportDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:20:07.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HouseDetailsSettings.cs [Design]",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\HouseDetailsSettings.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\HouseDetailsSettings.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\HouseDetailsSettings.cs [Design]",
+              "RelativeToolTip": "GuvenEmlak\\HouseDetailsSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:55:14.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HouseDetails.cs [Design]",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\HouseDetails.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\HouseDetails.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\HouseDetails.cs [Design]",
+              "RelativeToolTip": "GuvenEmlak\\HouseDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:38:08.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditEmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\EditEmployeeForm.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\EditEmployeeForm.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\EditEmployeeForm.cs [Design]",
+              "RelativeToolTip": "GuvenEmlak\\EditEmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:40:39.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\Program.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\Program.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\Program.cs",
+              "RelativeToolTip": "GuvenEmlak\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:48:06.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditEmployeeForm.cs",
+              "DocumentMoniker": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\EditEmployeeForm.cs",
+              "RelativeDocumentMoniker": "GuvenEmlak\\EditEmployeeForm.cs",
+              "ToolTip": "C:\\G\u00DCVEN EMLAK PROJES\u0130\\UYGULAMA\\GuvenEmlak\\GuvenEmlak\\EditEmployeeForm.cs",
+              "RelativeToolTip": "GuvenEmlak\\EditEmployeeForm.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAD4v3EAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:43:28.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
